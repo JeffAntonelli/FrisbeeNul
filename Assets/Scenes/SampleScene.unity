@@ -5057,7 +5057,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
-  rb: {fileID: 0}
+  rb: {fileID: 1833081169}
 --- !u!114 &1833081173
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5070,5 +5070,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d18966644c62b5b4aa9a158f9016914e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  player: {fileID: 0}
+  player: {fileID: 88216788}
   throwforce: 10
