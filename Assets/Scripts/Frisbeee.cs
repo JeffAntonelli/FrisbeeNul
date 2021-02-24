@@ -6,7 +6,7 @@ using UnityEngine.UI;
 
 public class Frisbeee : MonoBehaviour
 {
-    public Transform player;
+    [SerializeField] Transform player;
     [SerializeField] public float throwforce = 10; // Force de lancer
     
     private bool hasPlayer = false; // proximité du joueur pour saisir l objet
